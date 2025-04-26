@@ -1,3 +1,0 @@
-#EJERCICIO LEY DE COULUMB
-
-def coulumb():
