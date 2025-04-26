@@ -6,7 +6,11 @@ def coulumbinator():
     print ("Bienvenido a la calculadora de la ley de Coulumb\nencontrarás el valor de la fuerza entre dos cargas") #Bienvenida al programa
     print ("_________________________________________________________________________________") #Este es un objeto de estética que funciona con el objetivo de separar secciones
 
+    Q1 = float(input("Escribe el valor de la primera carga"))
+    Q2 = float(input("Escribe el valor de la segunda carga "))
+    R = float (input("Escribe el valor de la distancia que hay entre estás cargas "))
 
+    
     print ("_________________________________________________________________________________") #Este es un objeto de estética que funciona con el objetivo de separar secciones
 
     print(f"el resultado de la operación es {} enhorabuena") #Aquí se mostrará el resultado final
