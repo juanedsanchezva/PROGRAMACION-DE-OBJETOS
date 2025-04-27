@@ -9,6 +9,7 @@ def Volumen(r1, h, r2): #Función que define variables como el radio 1, la altur
 
 #Luego hallamos el volumen del segundo objeto (Cono) teniendo en cuenta la fórmula para hallar su volumen
 
+#Finalmente se hace la formula final para saber cuanto es el volumen total
 
     print (f"El resultado final es {} ¡Qué interesante!")
     print ("_________________________________________") #Este es un objeto de estética que funciona con el objetivo de separar secciones
