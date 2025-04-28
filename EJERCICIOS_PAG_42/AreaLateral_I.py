@@ -6,10 +6,19 @@ def AreaVagon():
     Base = float (input("¿Cuál es el la base del vagón? ")) #Se pregunta al usuario a través de la consola la base del vagón
     Altura = float (input("¿Cuál es el la altura del vagón? ")) #Se pregunta al usuario a través de la consola la altura del vagón
 
-    #COLOCAR EL PLANTEAMIENTO DEL AREA DE LAS RUEDAS (CIRCULOS) Y DEL VAGÓN (RECTÁNGULO) 
+   
+    AreaRueda = math.pi * (Radio ** 2) # Area del vagon (circulo)
 
-    #COLOCAR EL PLANTEAMIENTO DE LA SUMA DE ÁREAS
+    
+    AreaVagonRectangulo = Base * Altura  # Area del vagon (rectangulo)
 
-    print (f"El área del vagón terminó siendo {} metros")
+    
+    AreaTotal = AreaVagonRectangulo + (2 * AreaRueda) # Suma de areas (area del rectangulo + areas de las dos ruedas)
+
+
+    print (f"El área del vagón terminó siendo {AreaTotal:.2f} m/2")
+
+    return (AreaVagon()) #Retorna al usuario la función incial
 
 AreaVagon()
+

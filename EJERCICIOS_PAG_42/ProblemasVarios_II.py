@@ -3,12 +3,26 @@
 def Vueltas(P , M , H): #Cada una de las variables significa Panes, Bolsas de leche y Huevos respectivamente
     
     Pprecio = P * 300 #Cada uno de los numeros por los que se multiplica es el precio individual de cada producto                                       
-    Mprecio = M * 3300
-    Hprecio = 
-    #Terminar la formula
+    Mprecio = M * 3300 
+    Hprecio = H * 350  
 
-    Paga = int(input("¿Con cuánto dinero pagarás? "))
-    Vueltas = 
-    #Incluir la formula y acabar la función
+    # Sumatoria del costo total
+    Total = Pprecio + Mprecio + Hprecio
+   
+    print(f" El total de la compra es: {Total} pesos.")
 
-Vueltas()#Testear la función definiendo el numero que se asignará a cada variable (Panes, Bolsas de leche y huevos)
+    Paga = int(input("¿Con cuanto dinero pagarás? "))
+    Vueltas = Paga - Total
+
+    if Vueltas >= 0:
+        print(f" Tus vueltas son: {Vueltas} pesos.")
+    else:
+        print(f" Te falta por pagar {-Vueltas} pesos.")  # Se pone negativo en positivo
+ 
+
+# Testeo pidiendo datos al usuario
+P = int(input("¿Cuántos panes deseas? "))
+M = int(input("¿Cuántas bolsas de leche deseas? "))
+H = int(input("¿Cuántos huevos deseas? "))
+
+Vueltas(P, M, H)
