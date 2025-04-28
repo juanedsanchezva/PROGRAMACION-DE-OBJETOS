@@ -1,6 +1,13 @@
 BIENVENIDOS A NUESTRO REPO: ENCONTRARÁN SOLUCIONES A ALGÚNOS PROBLEMAS
 _________________________________________________________________________________________________
 
+PROBLEMA 0: "COULUMBINATOR"
+Para el cálculo de la ley de Coulomb entre dos cargas eléctricas con una distancia r
+
+PROGRAMA SOLUCIÓN
+![image](https://github.com/user-attachments/assets/40fcdc7a-d28e-4deb-8bfd-7df76b4f86ff)
+
+
 EJERCICIOS PAG 42
 
 PROBLEMA 1: "VOLUMEN DE UN SOLIDO II"
