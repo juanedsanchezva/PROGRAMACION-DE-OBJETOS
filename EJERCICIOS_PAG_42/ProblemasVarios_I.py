@@ -9,9 +9,10 @@ def CarneTotal(N , M , K): #Cada una de las variables significa gallinas, gallos
  # Sumatoria total
     CarneTOTAL = NCarne + MCarne + KCarne
     
-
+    print("---- PESO DE CARNE ----")
     print (f"El peso total de la carne es {CarneTOTAL:.2f} kilogramos") #Respuesta
 # Testeamos pidiendo al usuario los valores
+print("---- ANIMALES ----")
 N = int(input("¿Cuántas gallinas tienes? "))
 M = int(input("¿Cuántos gallos tienes? "))
 K = int(input("¿Cuántos pollitos tienes? "))

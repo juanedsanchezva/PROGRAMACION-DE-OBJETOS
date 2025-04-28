@@ -8,19 +8,20 @@ def Vueltas(P , M , H): #Cada una de las variables significa Panes, Bolsas de le
 
     # Sumatoria del costo total
     Total = Pprecio + Mprecio + Hprecio
-   
-    print(f" El total de la compra es: {Total} pesos.")
-
+    print("---- TOTAL ----")
+    print(f"El total de la compra es: {Total} pesos.")
     Paga = int(input("¿Con cuanto dinero pagarás? "))
+    print("---- VUELTAS ----")
     Vueltas = Paga - Total
 
-    if Vueltas >= 0:
+    if (Vueltas >= 0):
         print(f" Tus vueltas son: {Vueltas} pesos.")
     else:
-        print(f" Te falta por pagar {-Vueltas} pesos.")  # Se pone negativo en positivo
+        print(f" Quedas debiendo {-Vueltas} pesos.")  # Se pone negativo en positivo
  
 
 # Testeo pidiendo datos al usuario
+print ("---- DATOS ----")
 P = int(input("¿Cuántos panes deseas? "))
 M = int(input("¿Cuántas bolsas de leche deseas? "))
 H = int(input("¿Cuántos huevos deseas? "))

@@ -2,7 +2,7 @@ import math #Lo invocamos para poder utilizar más adelante el numero "pi" ya qu
 
 def Volumen(r1, h, r2): #Función que define variables como el radio 1, la altura y el radio 2 (r1, h y r2 respectivamente)
 
-    print ("Vamos a calcular el volumen de un solido")
+    print ("Vamos a calcular el volumen de un solido:")
     print ("________________________________________") #Este es un objeto de estética que funciona con el objetivo de separar secciones
 
 # Volumen de la esfera
