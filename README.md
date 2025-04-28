@@ -14,8 +14,10 @@ PROBLEMA 2: "AREA LATERAL DE UN VAGÓN I"
 ![image](https://github.com/user-attachments/assets/62488c67-73a5-46ba-92cb-89f891881d4e)
 
 
-Se realizó la programación de la solución, con un numero n para el radio y para la base y la altura numeros x y y:
+Se realizó la programación de la solución, para hallar el area de la figura, con un numero n para el radio y para la base y la altura numeros x y y:
 ![image](https://github.com/user-attachments/assets/efec81a4-e06a-4942-8059-9811c248af21)
+
+
 
 
 
