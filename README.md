@@ -3,7 +3,7 @@ PROBLEMA 1: "VOLUMEN DE UN SOLIDO II"
 ![image](https://github.com/user-attachments/assets/a8ea9c6b-f984-49bb-ab60-9f0c25b2fa26)
 
 
-Para los valores r1 = 3, h = 9/2 y r2 = 4, funcionamiento del problema "Volumen de un sólido II" 
+Para los valores r1 = 3, h = 9/2 y r2 = 4, funcionamiento del problema "Volumen de un sólido II" para hallar el volúmen de la figura trabajada.
 ![EVIDENCIA VOLUMEN SOLIDO](https://github.com/user-attachments/assets/614dc46e-6482-491a-a0ae-becb520b6b45)
 
 Para los valores r1 = 3, h = 9//2 y r2 = 4 funcionamiento del problema "Volumen de un solido II" (caso 2)
@@ -14,7 +14,7 @@ PROBLEMA 2: "AREA LATERAL DE UN VAGÓN I"
 ![image](https://github.com/user-attachments/assets/62488c67-73a5-46ba-92cb-89f891881d4e)
 
 
-Se realizó la programación de la solución, para hallar el area de la figura, con un numero n para el radio y para la base y la altura numeros x y y:
+Se realizó la programación de la solución para hallar el area de la figura, con un numero n para el radio y para la base y la altura numeros x y y:
 ![image](https://github.com/user-attachments/assets/efec81a4-e06a-4942-8059-9811c248af21)
 
 
