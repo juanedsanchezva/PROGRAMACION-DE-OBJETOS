@@ -1,6 +1,8 @@
 BIENVENIDOS A NUESTRO REPO: ENCONTRARÁN SOLUCIONES A ALGÚNOS PROBLEMAS
 _________________________________________________________________________________________________
 
+EJERCICIOS PAG 42
+
 PROBLEMA 1: "VOLUMEN DE UN SOLIDO II"
 
 ![image](https://github.com/user-attachments/assets/a8ea9c6b-f984-49bb-ab60-9f0c25b2fa26)
