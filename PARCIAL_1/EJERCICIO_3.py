@@ -1,4 +1,4 @@
-
+#CONTADOR DE VOCALES
 
 
 palabra = input("Escribe una palabra:  ")
